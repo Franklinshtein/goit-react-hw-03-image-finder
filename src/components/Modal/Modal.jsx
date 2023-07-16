@@ -1,5 +1,5 @@
-import React, { useEffect } from 'react';
-import style from './Modal.module.css';
+import React from 'react';
+import './Modal.module.css'; // Import the CSS file for styles
 
 class Modal extends React.Component {
   constructor(props) {
